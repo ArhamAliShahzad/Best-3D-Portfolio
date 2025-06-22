@@ -341,7 +341,7 @@ const Hero = () => {
             ease: "easeInOut"
           }}
         >
-          EXPLORE PORTFOLIO
+          {/* EXPLORE PORTFOLIO */}
         </motion.div>
 
         {/* Main scroll indicator */}
